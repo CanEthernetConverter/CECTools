@@ -631,3 +631,237 @@
 15:12:31.0546:[object Object]
 15:13:14.0723:New config
 15:13:14.0725:[object Object]
+8:47:22 PM.0023:Socket on 8030
+8:47:22 PM.0205:uCANToolWebSerwer app listening on port 8888
+8:47:22 PM.0239:Error: 
+8:48:53 PM.0240:Socket on 8030
+8:48:53 PM.0319:uCANToolWebSerwer app listening on port 8888
+8:48:53 PM.0346:C<O
+8:48:53 PM.0370:C>
+9:27:24 PM.0805:Socket on 8030
+9:27:25 PM.0070:uCANToolWebSerwer app listening on port 8888
+9:27:25 PM.0115:C<O
+9:27:25 PM.0145:C>
+9:28:14 PM.0881:HTTP Client connected[object Object]
+9:15:57 PM.0459:Socket on 8030
+9:15:57 PM.0676:uCANToolWebSerwer app listening on port 8888
+9:15:57 PM.0722:C<O
+9:15:57 PM.0752:C>
+9:16:26 PM.0541:HTTP Client connected[object Object]
+9:16:51 PM.0529:HTTP Client connected[object Object]
+9:19:41 PM.0924:HTTP Client connected[object Object]
+9:21:36 PM.0042:READ
+9:21:36 PM.0062:[object Object]
+9:21:36 PM.0119:READ
+9:21:36 PM.0126:[object Object]
+9:21:48 PM.0387:New config
+9:21:48 PM.0394:[object Object]
+9:22:18 PM.0952:READ
+9:22:18 PM.0972:[object Object]
+9:22:24 PM.0756:READ
+9:22:24 PM.0776:[object Object]
+9:22:31 PM.0392:Socket on 8030
+9:22:31 PM.0497:uCANToolWebSerwer app listening on port 8888
+9:22:31 PM.0534:C<O
+9:22:31 PM.0859:HTTP Client connected[object Object]
+9:22:31 PM.0914:C>
+9:22:34 PM.0954:READ
+9:22:34 PM.0962:[object Object]
+9:28:18 PM.0018:Socket on 8030
+9:28:18 PM.0195:uCANToolWebSerwer app listening on port 8888
+9:28:18 PM.0227:C<O
+9:28:31 PM.0613:HTTP Client connected[object Object]
+9:29:09 PM.0441:Socket on 8030
+9:29:09 PM.0507:uCANToolWebSerwer app listening on port 80
+9:29:09 PM.0530:C<O
+9:29:11 PM.0343:HTTP Client connected[object Object]
+9:29:15 PM.0638:READ
+9:29:15 PM.0658:[object Object]
+9:29:32 PM.0210:C>
+9:38:06 PM.0596:Socket on 8030
+9:38:06 PM.0792:uCANToolWebSerwer app listening on port 80
+9:38:06 PM.0830:C<O
+9:38:06 PM.0857:C>
+9:38:08 PM.0305:HTTP Client connected[object Object]
+9:38:11 PM.0545:HTTP Client connected[object Object]
+9:38:27 PM.0004:READ
+9:38:27 PM.0026:[object Object]
+9:19:31 PM.0413:Socket on 8030
+9:19:31 PM.0643:uCANToolWebSerwer app listening on port 80
+9:19:31 PM.0689:Error: 
+9:20:08 PM.0093:Socket on 8030
+9:20:08 PM.0209:uCANToolWebSerwer app listening on port 80
+9:20:08 PM.0246:Error: 
+9:20:31 PM.0592:Socket on 8030
+9:20:31 PM.0705:uCANToolWebSerwer app listening on port 80
+9:20:31 PM.0745:C<O
+9:20:31 PM.0778:C>
+4:08:53 AM.0489:Socket on 8030
+4:08:53 AM.0709:uCANToolWebSerwer app listening on port 80
+4:08:53 AM.0756:C<O
+4:08:53 AM.0786:C>
+4:10:52 AM.0416:Socket on 8030
+4:10:52 AM.0512:uCANToolWebSerwer app listening on port 80
+4:10:52 AM.0543:C<O
+4:10:52 AM.0570:C>
+4:12:36 AM.0978:Socket on 8030
+4:12:37 AM.0059:uCANToolWebSerwer app listening on port 80
+4:12:37 AM.0089:C<O
+4:12:37 AM.0113:C>
+4:12:54 AM.0006:HTTP Client connected[object Object]
+4:13:03 AM.0822:C>t00181122334455667788
+4:13:04 AM.0236:C>t00181122334455667788
+4:13:06 AM.0579:C>t00181122334455667788
+4:13:07 AM.0094:C>t00181122334455667788
+4:13:07 AM.0596:C>t00181122334455667788
+4:13:13 AM.0885:C>t00181122334455667788
+4:13:14 AM.0449:C>t00181122334455667788
+4:13:14 AM.0996:C>t00181122334455667788
+4:13:16 AM.0063:C>t00181122334455667788
+4:13:16 AM.0979:C>t00181122334455667788
+4:13:17 AM.0268:C>t00181122334455667788
+4:13:17 AM.0470:C>t00181122334455667788
+4:13:17 AM.0674:C>t00181122334455667788
+4:13:17 AM.0895:C>t00181122334455667788
+4:13:18 AM.0224:C>t00181122334455667788
+4:36:09 AM.0247:Socket on 8030
+4:36:09 AM.0452:uCANToolWebSerwer app listening on port 80
+4:36:09 AM.0492:C<O
+4:36:09 AM.0517:C>
+4:36:12 AM.0719:C>t00181122334455667788
+4:36:20 AM.0008:HTTP Client connected[object Object]
+4:36:24 AM.0337:READ
+4:36:24 AM.0343:[object Object]
+4:36:31 AM.0553:New config
+4:36:31 AM.0559:[object Object]
+4:37:56 AM.0338:Socket on 8030
+4:37:56 AM.0515:uCANToolWebSerwer app listening on port 80
+4:37:56 AM.0548:C<O
+4:37:56 AM.0747:HTTP Client connected[object Object]
+4:37:56 AM.0767:C>
+4:38:03 AM.0788:READ
+4:38:03 AM.0795:[object Object]
+4:44:37 AM.0729:Socket on 8030
+4:44:37 AM.0794:uCANToolWebSerwer app listening on port 80
+4:44:37 AM.0818:C<O
+4:44:38 AM.0000:HTTP Client connected[object Object]
+4:44:38 AM.0026:C>
+4:44:50 AM.0370:READ
+4:44:50 AM.0377:[object Object]
+4:44:54 AM.0598:New config
+4:44:54 AM.0605:[object Object]
+5:02:11 AM.0121:Socket on 8030
+5:02:11 AM.0316:uCANToolWebSerwer app listening on port 80
+5:02:11 AM.0357:C<O
+5:02:11 AM.0379:C>
+5:02:15 AM.0625:HTTP Client connected[object Object]
+5:02:22 AM.0002:READ
+5:02:22 AM.0009:[object Object]
+5:02:25 AM.0407:New config
+5:02:25 AM.0414:[object Object]
+5:02:28 AM.0511:--- Device Reset ---
+5:03:42 AM.0179:Socket on 8030
+5:03:42 AM.0355:uCANToolWebSerwer app listening on port 80
+5:03:42 AM.0388:C<O
+5:03:42 AM.0410:C>
+5:22:22 AM.0733:Socket on 8030
+5:22:22 AM.0797:uCANToolWebSerwer app listening on port 80
+5:22:22 AM.0820:C<O
+5:22:22 AM.0843:C>
+5:23:26 AM.0904:Socket on 8030
+5:23:26 AM.0968:uCANToolWebSerwer app listening on port 80
+5:23:26 AM.0992:C<O
+5:23:27 AM.0013:C>
+5:24:28 AM.0852:Socket on 8030
+5:24:28 AM.0917:uCANToolWebSerwer app listening on port 80
+5:24:28 AM.0940:C<O
+5:24:28 AM.0963:C>
+5:24:43 AM.0640:Socket on 8030
+5:24:43 AM.0718:uCANToolWebSerwer app listening on port 80
+5:24:43 AM.0745:C<O
+5:24:43 AM.0770:C>
+5:25:49 AM.0542:Socket on 8030
+5:25:49 AM.0607:uCANToolWebSerwer app listening on port 80
+5:25:49 AM.0630:C<O
+5:25:49 AM.0653:C>
+5:19:34 AM.0935:Socket on 8030
+5:19:35 AM.0158:uCANToolWebSerwer app listening on port 80
+5:19:35 AM.0206:C<O
+5:19:35 AM.0237:C>
+5:19:37 AM.0761:C>t00181122334455667788
+5:19:38 AM.0319:C>t00181122334455667788
+5:19:38 AM.0631:C>t00181122334455667788
+5:19:38 AM.0936:C>t00181122334455667788
+4:14:09 AM.0987:Socket on 8030
+4:14:10 AM.0216:uCANToolWebSerwer app listening on port 80
+4:14:10 AM.0265:C<O
+4:14:14 AM.0910:HTTP Client connected[object Object]
+4:23:45 AM.0893:Socket on 8030
+4:23:46 AM.0002:uCANToolWebSerwer app listening on port 80
+4:23:46 AM.0036:C<O
+4:23:46 AM.0320:HTTP Client connected[object Object]
+4:24:20 AM.0924:Socket on 8030
+4:24:21 AM.0020:uCANToolWebSerwer app listening on port 80
+4:24:21 AM.0051:OOPEEN
+4:24:21 AM.0062:C<O
+4:29:04 AM.0019:Socket on 8030
+4:29:04 AM.0115:uCANToolWebSerwer app listening on port 80
+4:29:04 AM.0149:C<O
+4:29:04 AM.0196:C<S2
+
+4:29:06 AM.0186:HTTP Client connected[object Object]
+4:32:08 AM.0982:Socket on 8030
+4:32:09 AM.0078:uCANToolWebSerwer app listening on port 80
+4:32:09 AM.0112:C<O
+4:32:09 AM.0171:C<S2
+
+4:32:09 AM.0406:HTTP Client connected[object Object]
+4:39:13 AM.0985:Socket on 8030
+4:39:14 AM.0083:uCANToolWebSerwer app listening on port 80
+4:39:14 AM.0115:C<S2
+
+4:39:14 AM.0155:C<O
+
+4:39:14 AM.0167:C>
+4:39:16 AM.0753:HTTP Client connected[object Object]
+4:41:12 AM.0257:Socket on 8030
+4:41:12 AM.0354:uCANToolWebSerwer app listening on port 80
+4:41:12 AM.0386:C<S3
+4:41:12 AM.0416:C<O
+4:41:12 AM.0429:C>
+4:41:16 AM.0185:HTTP Client connected[object Object]
+4:43:05 AM.0453:Socket on 8030
+4:43:05 AM.0550:uCANToolWebSerwer app listening on port 80
+4:43:05 AM.0582:C<S3
+4:43:05 AM.0612:C<O
+4:43:05 AM.0623:C>
+4:43:10 AM.0201:HTTP Client connected[object Object]
+4:44:12 AM.0072:Socket on 8030
+4:44:12 AM.0170:uCANToolWebSerwer app listening on port 80
+4:44:12 AM.0201:C<S3
+4:44:12 AM.0230:C<O
+4:44:12 AM.0244:C>
+4:44:16 AM.0109:HTTP Client connected[object Object]
+4:44:25 AM.0679:C>t00181122334455667788
+4:44:26 AM.0757:C>t00181122334455667788
+4:49:04 AM.0632:List dir 
+4:49:04 AM.0649:log.log
+4:49:08 AM.0619:C<t12321234
+4:49:08 AM.0638:C>z
+4:49:27 AM.0269:C<t12321234
+4:49:27 AM.0295:C>z
+4:49:29 AM.0850:C<t12321234
+4:49:29 AM.0876:C>z
+4:49:30 AM.0954:C<t12321234
+4:49:30 AM.0985:C>z
+4:49:32 AM.0040:C<t12321234
+4:49:32 AM.0065:C>z
+4:49:33 AM.0122:C<t12321234
+4:49:33 AM.0149:C>z
+4:51:58 AM.0112:Socket on 8030
+4:51:58 AM.0317:uCANToolWebSerwer app listening on port 80
+4:51:58 AM.0356:C<S3
+4:51:58 AM.0607:HTTP Client connected[object Object]
+4:51:58 AM.0627:C<O
+4:51:58 AM.0665:C>
+4:52:01 AM.0730:C>t00181122334455667788

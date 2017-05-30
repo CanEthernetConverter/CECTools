@@ -78,11 +78,20 @@ app.get("/", function(req, res) {
 	 res.sendFile('index.html')
 });
 
+
+function resetDevice(){
+    require('child_process').exec('sudo /sbin/shutdown -r now', function (msg) {console.log(msg)});
+    console.log("--- Device Reset ---");
+}
+
 var CANConfigJSON = __dirname + '/../config.json';
 app.put("/CAN/config.json", function (req, res) {
-	jsonfile.writeFile(CANConfigJSON, req.body);
-	console.log('New config');
-	console.log(req.body);
+    jsonfile.writeFile(CANConfigJSON, req.body);
+    console.log('New config');
+    console.log(req.body);
+    res.send(JSON.stringify("OK"));
+    setTimeout(resetDevice,3000);
+  
 });
 
 app.get("/CAN/config.json", function (req, res) {

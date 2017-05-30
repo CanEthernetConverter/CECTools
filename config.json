@@ -1,0 +1,1 @@
+{"CANPort":"/dev/ttyACM0","CANSpeed":100000,"HTTPPort":80,"SocketPort":8030,"CANLogDir":"./logs/","CANLogPath":"log.log"}
