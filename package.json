@@ -10,6 +10,7 @@
     "forever-monitor": "^1.7.1",
     "fs": "0.0.1-security",
     "jsonfile": "^2.4.0",
+    "moment": "^2.18.1",
     "net": "^1.0.2",
     "os": "^0.1.1",
     "serialport": "^4.0.7",
